@@ -14,4 +14,5 @@ Current features 🔧
 
 
 Supported languages :netherlands:
-:uk: English :netherlands: Dutch 
+:uk: English 
+:netherlands: Dutch 
