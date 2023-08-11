@@ -1,0 +1,62 @@
+{
+  "id": "nl.lrvdlinden.stentor",
+  "version": "1.0.1",
+  "compatibility": ">=5.0.0",
+  "sdk": 3,
+  "platforms": ["local"],
+  "brandColor": "#d10a10",
+  "name": {
+    "en": "De Stentor",
+    "nl": "De Stentor"
+  },
+  "images": {
+    "xlarge": "/assets/images/xlarge.jpg",
+    "large": "/assets/images/large.jpg",
+    "small": "/assets/images/small.jpg"
+  },
+  "description": {
+    "en": "Receive notifications for new Stentor news in your region",
+    "nl": "Ontvang meldingen voor nieuwe Stentor nieuws uit jouw regio"
+  },
+  "category": "internet",
+  "class": "rss",
+  "tags": {
+    "en": ["internet", "news", "nos", "nu.nl", "rss", "feed", "video", "stentor"],
+    "nl": ["internet", "nieuws", "nos", "nu.nl", "rss", "feed", "video", "stentor"]
+  },
+  "language": {
+    "en": "en",
+    "nl": "nl"
+  },
+  "permissions": [],
+  "author": {
+    "name": "Léon van der Linden",
+    "email": "homey@vdlinden.xyz"
+  },
+  "contributors": {
+    "translators": [
+      {
+        "name": "🇬🇧 Léon"
+      },
+      {
+        "name": "🇳🇱 Léon"
+      }
+    ]
+  },
+  "contributing": {
+    "donate": {
+      "paypal": {
+        "username": "lrvdlinden"
+      },
+      "bunq": {
+        "username": "lrvdlinden"
+      }
+    }
+  },
+  "bugs": {
+    "url": "https://community.homey.app/t/app-pro-de-stentor/86816"
+  },
+  "homepage": "https://homey.app/nl-nl/apps/author/5d4da77a2c836a50f6936070/page/0/",
+  "support": "https://community.homey.app/t/app-pro-de-stentor/86816",
+  "homeyCommunityTopicId": 86816
+}

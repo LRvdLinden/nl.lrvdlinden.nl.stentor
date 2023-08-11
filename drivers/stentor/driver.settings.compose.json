@@ -1,0 +1,15 @@
+[
+	{
+	  "id": "feedUrl",
+	  "type": "text",
+	  "value": "",
+	  "label": {
+		"en": "Stentor operating in town",
+		"nl": "Stentor aanwezig in woonplaats"
+	  },
+	  "placeholder": {
+		"en": "Enter the Stentor town, e.g. Apeldoorn",
+		"nl": "Voer hier de gewenste Stentor woonplaats in, bijv. Apeldoorn"
+	  }
+	}
+  ]

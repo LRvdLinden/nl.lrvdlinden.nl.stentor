@@ -1,0 +1,61 @@
+{
+  "name": {
+    "en": "Stentor",
+    "nl": "Stentor"
+  },
+  "class": "other",
+  "capabilities": [],
+  "pair": [
+    {
+      "id": "feedUrl",
+      "options": {
+        "title": {
+          "en": "De Stentor settings",
+          "nl": "De Stentor instellingen"
+        },
+        "buttonLabel": {
+          "en": "Next",
+          "nl": "Volgende"
+        },
+        "usernameLabel": {
+          "en": "My device name",
+          "nl": "Mijn apparaat naam"
+        },
+        "usernamePlaceholder": {
+          "en": "e.g. Stentor Apeldoorn",
+          "en": "e.g. Stentor Apeldoorn"
+        },
+        "passwordLabel": {
+          "en": "Stentor operating in town",
+          "nl": "Stentor aanwezig in woonplaats"
+        },
+        "passwordPlaceholder": {
+          "en": "Apeldoorn",
+          "nl": "Apeldoorn"
+        }
+      }
+    },
+    {
+      "id": "list_devices",
+      "template": "list_devices",
+      "navigation": {
+        "next": "add_devices"
+      }
+    },
+    {
+      "id": "add_devices",
+      "template": "add_devices"
+    }
+  ],
+  "platforms": [
+    "local"
+  ],
+  "connectivity": [
+    "cloud"
+  ],
+  "images": {
+    "small": "{{driverAssetsPath}}/images/small.jpg",
+    "large": "{{driverAssetsPath}}/images/large.jpg"
+  },
+  "energy": {}
+}
